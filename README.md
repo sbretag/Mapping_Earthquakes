@@ -24,6 +24,7 @@ The purpose of the mapping earthquake challenge was to adjust an already created
       - Street
       - Dark View
     - Note to avoid duplicative circle markers, uncheck either Earthquakes or Major Earthquakes, the default view shows both
+    - Circlemarker radius size is relative to earthquake magnitude
 
 ![image](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Map_Legend.png)
 
