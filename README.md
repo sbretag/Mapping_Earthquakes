@@ -12,7 +12,7 @@ The purpose of the mapping earthquake challenge was to adjust an already created
   - Code
     - [Challenge_Logic.js](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
     - [Index.html](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
-    - [Stle.css](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css)
+    - [Style.css](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css)
 
 ## Using the map
 
