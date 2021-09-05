@@ -18,10 +18,11 @@ The purpose of the mapping earthquake challenge was to adjust an already created
 
 ### Directions and Special notes
 ![image](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Map_Options.png)
+
     - 3 base layer options are available to select from
-      1. Satellite
-      2. Street
-      3. Dark View
+      - Satellite
+      - Street
+      - Dark View
     - Note to avoid duplicative circle markers, uncheck either Earthquakes or Major Earthquakes, the default view shows both
 
 ![image](https://github.com/sbretag/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Map_Legend.png)
